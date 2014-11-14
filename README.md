@@ -10,4 +10,4 @@ Project | Code | User Experience
 [UPS](https://github.com/ryanberckmans/ups)|Perl, mysql, fork of a website I inherited|Deployed as a hobby e-commerce site for about fifty players in an online game. Contains a monetary system which I designed using my background in economics.
 [EqOptimizer](https://github.com/ryanberckmans/eqoptimizer)|Functional programming, see haskell/*|Built for a hobby game, EqOptimizer calculates "what to wear" given a set of constraints
 [Mud](https://github.com/ryanberckmans/mud)|C++, boost, python|Older version of NoricMud. Also used to develop multiuser apps for business applications.
-[Bijection](https://github.com/ryanberckmans/bijection)|Rubygem providing a [bijection](https://en.wikipedia.org/wiki/Bijection) container|Link to (bijection)[https://rubygems.org/gems/bijection] gem
+[Bijection](https://github.com/ryanberckmans/bijection)|Rubygem providing a [bijection](https://en.wikipedia.org/wiki/Bijection) container|[Bijection](https://rubygems.org/gems/bijection) on RubyGems.org
