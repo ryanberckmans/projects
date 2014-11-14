@@ -5,7 +5,7 @@ List of my GitHub projects for which I designed the user experience, software ar
 
 Project | Code | User Experience
 --- | --- | ---
-(SignSpout)[../SignSpout]|Web, ember.js, client-side MVC|Uber for Sign Spinners, ready for early customers
+[SignSpout](../SignSpout)|Web, ember.js, client-side MVC|Uber for Sign Spinners, ready for early customers
 (AdSpace)[../adspace]|Ruby, automated browser, data mining|Crawler to index display advertisements on the web
 (NoricMud)[../NoricMud]|Ruby, multiplayer networking, my best work in software testing|Hobby game engine for multiplayer online game
 (Mud client)[../mud-client]|Websockets, javascript, parsing with context-free grammars. Under active development, wm_server/* is deprecated, see wm_client/js/* and relay.rb|Live at (noric.org/play)[http://noric.org/play]
